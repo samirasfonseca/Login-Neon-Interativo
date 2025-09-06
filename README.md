@@ -14,7 +14,7 @@ Login Neon Interativo é uma **página de login moderna**, desenvolvida com **HT
 - 🌑 **Modo Dark e Light** com toggle de ícones  
 - ✨ **Partículas interativas** que seguem o mouse  
 - 🖥 **Formulário de login funcional**  
-- 🎨 Design chamativo e responsivo para atrair atenção de recrutadores  
+- 🎨 Design chamativo e responsivo
 
 ---
 
